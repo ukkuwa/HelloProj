@@ -2,7 +2,9 @@ package com;
 
 public class MainUser {
 	public static void main(String [] args){
-		System.out.print("dsad");
+		System.out.println("dsad");
+		
+		System.out.println("I'm ukkuwa");
 		
 	}
 	
